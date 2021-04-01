@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: b3f82cc799995ff45b12bea0e4880808
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6313177587111071953
+    second: fuze_0
+  - first:
+      213: -5797142060867087338
+    second: fuze_1
+  - first:
+      213: -8762501576033394512
+    second: fuze_2
+  - first:
+      213: 9198892231614476319
+    second: fuze_3
+  - first:
+      213: 3093534387972610462
+    second: fuze_4
+  - first:
+      213: 2721206588342602705
+    second: fuze_5
+  - first:
+      213: 3502593129749836357
+    second: fuze_6
+  - first:
+      213: -8122343531424525028
+    second: fuze_7
+  - first:
+      213: -5959520435025077467
+    second: fuze_8
+  - first:
+      213: 3033307637000386785
+    second: fuze_9
+  - first:
+      213: 4842252153991543915
+    second: fuze_10
+  - first:
+      213: 4265756475099812561
+    second: fuze_11
+  - first:
+      213: 3395551553382285534
+    second: fuze_12
+  - first:
+      213: -2539666844739474510
+    second: fuze_13
+  - first:
+      213: 8337825019821970356
+    second: fuze_14
+  - first:
+      213: -2058723352316174318
+    second: fuze_15
+  - first:
+      213: 4523375678030292376
+    second: fuze_16
+  - first:
+      213: 2631102110570273664
+    second: fuze_17
+  - first:
+      213: 412791574619876610
+    second: fuze_18
+  - first:
+      213: 7468709251593740544
+    second: fuze_19
+  - first:
+      213: 2304203905198783575
+    second: fuze_20
+  - first:
+      213: 9074543030544036099
+    second: fuze_21
+  - first:
+      213: 7703628826862279193
+    second: fuze_22
+  - first:
+      213: 7271288740587039307
+    second: fuze_23
+  - first:
+      213: -8618150035290909171
+    second: fuze_24
+  - first:
+      213: -6906362662276095338
+    second: fuze_25
+  - first:
+      213: -3062723912423707822
+    second: fuze_26
+  - first:
+      213: -2412718517535415828
+    second: fuze_27
+  - first:
+      213: 337452816702415371
+    second: fuze_28
+  - first:
+      213: -4392969626401362412
+    second: fuze_29
+  - first:
+      213: 6766250515179478073
+    second: fuze_30
+  - first:
+      213: 6349750360439666093
+    second: fuze_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fuze_0
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 6055
+        width: 692
+        height: 2086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d096bb1199ec9750800000000000000
+      internalID: 6313177587111071953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_1
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 5875
+        width: 668
+        height: 2187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6149a8d920a6c8fa0800000000000000
+      internalID: -5797142060867087338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_2
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 5875
+        width: 802
+        height: 2033
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0aab80e37556680800000000000000
+      internalID: -8762501576033394512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_3
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 5877
+        width: 1344
+        height: 1297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103b703fb709af70800000000000000
+      internalID: 9198892231614476319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_4
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 5887
+        width: 1478
+        height: 1153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991097b2217eea20800000000000000
+      internalID: 3093534387972610462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_5
+      rect:
+        serializedVersion: 2
+        x: 8272
+        y: 5876
+        width: 1051
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0d9a79faa3c520800000000000000
+      internalID: 2721206588342602705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_6
+      rect:
+        serializedVersion: 2
+        x: 9554
+        y: 5875
+        width: 1572
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542767bd4e5bb9030800000000000000
+      internalID: 3502593129749836357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3716
+        width: 1849
+        height: 2176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15dfb99793a74f80800000000000000
+      internalID: -8122343531424525028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_8
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3716
+        width: 1265
+        height: 1410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b16ae3db78b4da0800000000000000
+      internalID: -5959520435025077467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_9
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 3716
+        width: 1322
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e833e58939781a20800000000000000
+      internalID: 3033307637000386785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_10
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 3704
+        width: 1153
+        height: 1209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c398fbda2233340800000000000000
+      internalID: 4842252153991543915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuze_11
+      rect:
+        serializedVersion: 2
+        x: 7417
+        y: 3716
+        width: 880
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d295a4c9e2033b30800000000000000
+      internalID: 4265756475099812561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
