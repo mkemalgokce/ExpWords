@@ -2,7 +2,7 @@
 ExpWords Scripts
 
 ## IOS
-[App Store](https://apps.apple.com/us/app/expwords-letter-game/id1561234703).
+[App Store](https://apps.apple.com/us/app/expwords-letter-game/id1561234703)
 
 ## Android
 
